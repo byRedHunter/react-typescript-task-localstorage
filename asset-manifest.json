@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-typescript-task-localstorage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-typescript-task-localstorage/static/js/main.8e110439.chunk.js",
+    "main.js.map": "/react-typescript-task-localstorage/static/js/main.8e110439.chunk.js.map",
+    "runtime-main.js": "/react-typescript-task-localstorage/static/js/runtime-main.bc2ad400.js",
+    "runtime-main.js.map": "/react-typescript-task-localstorage/static/js/runtime-main.bc2ad400.js.map",
+    "static/css/2.2e8288c6.chunk.css": "/react-typescript-task-localstorage/static/css/2.2e8288c6.chunk.css",
+    "static/js/2.50de27d9.chunk.js": "/react-typescript-task-localstorage/static/js/2.50de27d9.chunk.js",
+    "static/js/2.50de27d9.chunk.js.map": "/react-typescript-task-localstorage/static/js/2.50de27d9.chunk.js.map",
+    "static/js/3.a902c64f.chunk.js": "/react-typescript-task-localstorage/static/js/3.a902c64f.chunk.js",
+    "static/js/3.a902c64f.chunk.js.map": "/react-typescript-task-localstorage/static/js/3.a902c64f.chunk.js.map",
+    "index.html": "/react-typescript-task-localstorage/index.html",
+    "static/css/2.2e8288c6.chunk.css.map": "/react-typescript-task-localstorage/static/css/2.2e8288c6.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-typescript-task-localstorage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.50de27d9.chunk.js.LICENSE.txt": "/react-typescript-task-localstorage/static/js/2.50de27d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2ad400.js",
+    "static/css/2.2e8288c6.chunk.css",
+    "static/js/2.50de27d9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8e110439.chunk.js"
+  ]
+}
