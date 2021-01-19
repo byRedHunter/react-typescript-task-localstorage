@@ -1,3 +1,11 @@
+<h1>Tasks with React & Typescript</h1>
+<br />
+<h2>Preview</h2>
+<br />
+<a href="https://byredhunter.github.io/react-typescript-task-localstorage/" target="_blank"> Ver Demo </a>
+<br />
+<img src="https://repository-images.githubusercontent.com/330856040/7a0ab300-59e0-11eb-8352-58c3006b8be0" alt="todo react y typescript" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
