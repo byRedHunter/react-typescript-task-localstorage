@@ -71,7 +71,7 @@ function App(): JSX.Element {
 
 			<div className='row'>
 				{tasks.map((task: ITask, i: number) => (
-					<div key={i} className='col-md-4 col-lg-3'>
+					<div key={i} className='col-md-4'>
 						<div className='card card-body mt-2'>
 							<h2 style={{ textDecoration: task.done ? 'line-through' : '' }}>
 								{task.name}
