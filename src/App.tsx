@@ -9,7 +9,9 @@ interface ITask {
 
 function App(): JSX.Element {
 	const [newTask, setNewTask] = useState<string>('')
-	const [tasks, setTasks] = useState<ITask[]>([])
+	const [tasks, setTasks] = useState<ITask[]>([
+		{ name: 'Mi primera Tarea', done: false },
+	])
 
 	const addTask = (name: string) => {
 		const newTasks: ITask[] = [...tasks, { name, done: false }]
